@@ -1,0 +1,14 @@
+<ui>
+    <menubar name="MenuBar">
+        <menu action="GameMenu">
+            <menuitem action="GameNew" />
+            <menuitem action="GameQuit" />
+            <separator />
+            <menuitem action="GameWhitePlayerSelect" />
+            <menuitem action="GameBlackPlayerSelect" />
+        </menu>
+        <menu action="HelpMenu">
+            <menuitem action="HelpHint" />
+        </menu>
+    </menubar>
+</ui>
